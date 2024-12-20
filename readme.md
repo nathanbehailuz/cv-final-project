@@ -43,11 +43,6 @@ The goal of this project was to develop a machine learning model to detect and c
   - The confidence threshold for inference was dynamically learned using the validation set.
   - Optimal threshold: 0.50, achieving the best F1-score of 0.82.
 
-- **Metrics**:
-
-  - Precision: 78%
-  - Recall: 84%
-  - Mean Average Precision (mAP): 72%
-
-nice! now include some code skeletons 
-
+- **Metrics**: 
+  - Precision: 64%
+  - Recall: 71%
