@@ -1,6 +1,7 @@
 ### **Project Description**
 
-The goal of this project was to develop a machine learning model to detect and classify objects that change significantly between two consecutive frames in a video. The model leverages pixel-wise differences between frames as input to focus on regions where changes occur. Please refer to this link to see the code: 
+The goal of this project was to develop a machine learning model to detect and classify objects that change significantly between two consecutive frames in a video. The model leverages pixel-wise differences between frames as input to focus on regions where changes occur. Please refer to this link to see the code: https://github.com/nathanbehailuz/cv-final-project
+
 
 1. **Dataset**:
 
